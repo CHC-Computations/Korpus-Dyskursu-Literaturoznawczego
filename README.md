@@ -5,7 +5,7 @@ The Corpus of Literary Discourse (KDL) is a collection of texts covering Polish 
 
 ## Contributors
 
-**Institute of Literary Research of the Polish Academy of Sciences, [www.ibl.waw.pl](www.ibl.waw.pl)
+**Institute of Literary Research of the Polish Academy of Sciences, [www.ibl.waw.pl](https://ibl.waw.pl/)
 
 ## Corpus design
 
