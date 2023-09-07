@@ -41,7 +41,7 @@ The corpus contains 13 949, most of which are post-1989 texts. The corpus still 
 
 ## Access
 
-The corpus will be published in this GitHub repository soon as a set of .txt files.
+The corpus will soon be published in this GitHub repository as a set of .txt files.
 
 ### Metadata
 
