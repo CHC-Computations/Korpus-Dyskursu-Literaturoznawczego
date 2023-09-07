@@ -52,5 +52,6 @@ publication_date
 publication_place
 pages
 ```
+## Use in the [GoLEM service](https://chrc.clarin-pl.eu/files/golem)
 
 ![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
