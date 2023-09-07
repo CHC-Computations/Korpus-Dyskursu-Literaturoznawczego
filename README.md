@@ -1,5 +1,5 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
-# Korpus Dyskursu Literaturoznawczego (KDL)
+# Corpus of Literary Discourse (Korpus Dyskursu Literaturoznawczego; KDL)
 
 The Corpus of Literary Discourse (KDL) is a collection of texts covering Polish literary discourse of the 19th and 20th centuries (1822-2022). It collects the works of Polish literary scholars who wrote during the last two hundred years. By design, the KDL is a monitoring corpus, thus reflecting changes in literary discourse through updates with new texts. All published texts are open-access.
 
