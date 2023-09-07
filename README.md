@@ -33,7 +33,7 @@ Each criterion will be assigned a minimum and maximum value for the percentage o
 
 ### Statistics
 
-The corpus contains xxx, most of which are post-1989 texts. The corpus still needs to be balanced.
+The corpus contains 13 949, most of which are post-1989 texts. The corpus still needs to be balanced.
 
 <p align="center">
   <img src="KDL_statistics.png" alt="KDL statistics" width="65%">
