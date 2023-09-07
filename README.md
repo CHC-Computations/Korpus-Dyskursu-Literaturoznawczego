@@ -60,7 +60,7 @@ publication_date
 publication_place
 pages
 ```
-The table with metadata is presented [here](...)
+The table with metadata is presented [here]((https://github.com/CHC-Computations/Korpus-Dyskursu-Literaturoznawczego/blob/main/KDL_resources.xlsx)
 
 ## Use in the [GoLEM service](https://chrc.clarin-pl.eu/files/golem)
 
