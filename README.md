@@ -47,7 +47,7 @@ The balanced and publicly available corpus contains 1000 texts.
 
 ## Access
 
-The corpus will soon be published in this GitHub repository as a set of .txt files.
+The corpus is published in this GitHub repository as a set of .txt files in two .zip files: [here](https://github.com/CHC-Computations/Korpus-Dyskursu-Literaturoznawczego/blob/main/KDL_txt_1_of_2.zip) and [here](https://github.com/CHC-Computations/Korpus-Dyskursu-Literaturoznawczego/blob/main/KDL_txt_2_of_2.zip).
 
 ### Metadata
 
