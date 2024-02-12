@@ -17,14 +17,9 @@ The collected texts come from different sources.
 
 ### Balancing criteria
 
-- literary era (or sub-period), 
-- branch of literary studies (history, criticism, theory), 
-- length of text, current of literary studies (e.g., structuralism, deconstruction), 
-- place of publication (e.g., Lviv, Krakow, Warsaw), 
-- gender of the author, 
-- reception (number of reprints, citations, mentions in syllabuses).
+The subcorpus of selected texts, in order to best represent the entire collection, was selected according to the following methodology. First, only documents that are only available in OpenAccess were selected as candidates for the corpus. Then, due to the small number of texts available in OpenAccess and written before 1945, all texts meeting this criterion were included in the corpus. Since we set the corpus size at 1000, and the total number of texts written before 1945 was 281, we were left with 719 texts of two literary eras to complete. Due to the overwhelming dominance of texts after 1989, we assumed that we would keep the overall ratio of texts from 1945-1989 as in the entire collection, and supplement the rest with texts from the years after 1989.
 
-Each criterion will be assigned a minimum and maximum value for the percentage of texts from each pool (e.g., a minimum of 20% of critical-literary texts, but no more than 33%), then we will determine the proportions for each period, taking into account the unevenness of production (e.g., a minimum of 5% and a maximum of 65% of titles from a given period should have a female author) - we will use expert consultation in determining the proportions.
+At the same time, we also prepared selection weights for these texts related to the gender distribution of the authors. We tried to keep the distribution consistent with the entire collection in terms of three possible values -- Male, Female, NA -- taking into account multi-authorship. The selection weights consisted of dividing the number of unknown authors by the number of male authors, dividing the number of female authors by the number of male authors (in the absence of male authors, it was the corresponding number of unknown or female authors), and summing these two values and the number of male authors divided by 2 (a parameter chosen experimentally based on the similarity of the distribution between the final created corpus and the entire collection).
 
 ### Limitations
 
